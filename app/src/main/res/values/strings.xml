@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">II Semana de Meio Ambiente</string>
+
+    <string name="todo">TODO</string>
+    <string name="programa_o">Programação</string>
+
+    <string name="qrcode">QRCODE</string>
+
+
+    <string name="pro0406">Programação para o dia 04 de junho.</string>
+    <string name="pro0506">Programação para o dia 05 de junho.</string>
+    <string name="pro0606">Programação para o dia 06 de junho.</string>
+
+
+    <string name="pro0406_1">07:30 – 10:30</string>
+    <string name="pro0406_2">10:30 – 11:00</string>
+
+    <string name="pro0406_3">Mesa Redonda: Preservação, conservação e recuperação dos recursos hídricos na região Tocantina.</string>
+
+    <string name="minicursos">09:30 - 12:30</string>
+    <string name="oficinas">09:30 - 12:30</string>
+    <string name="palestras">15:00 - 18:00</string>
+
+</resources>
