@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent i = new Intent(MainActivity.this, MenuActivity.class);
+                Intent i = new Intent(MainActivity.this, MenuAlunoActivity.class);
                 startActivity(i);
 
 //                String m = matricula.getText().toString();

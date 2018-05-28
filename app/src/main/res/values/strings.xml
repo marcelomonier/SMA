@@ -4,7 +4,7 @@
     <string name="todo">TODO</string>
     <string name="programa_o">Programação</string>
 
-    <string name="qrcode">QRCODE</string>
+    <string name="qrcode">LEITOR QRCODE</string>
 
 
     <string name="pro0406">Programação para o dia 04 de junho.</string>
@@ -20,5 +20,44 @@
     <string name="minicursos">09:30 - 12:30</string>
     <string name="oficinas">09:30 - 12:30</string>
     <string name="palestras">15:00 - 18:00</string>
+
+
+
+
+
+    <!--Descrição-->
+
+    <!--Felipe-->
+    <string name="title_minicurso_felipe">Aquaponia na prática</string>
+    <string name="felipe_descricao">    A aquaponia ou sistema aquapônico é o resultado da interligação entre dois sistemas muito conhecidos: a piscicultura e a hidroponia. O objetivo do minicurso é ensinar como se constrói um sistema de aquaponia, quais plantas cultivar, os peixes utilizados e materiais necessários.</string>
+
+
+    <!--Pedro-->
+    <string name="title_minicurso_pedro">Aquaponia na prática</string>
+    <string name="pedro_descricao">    A aquaponia ou sistema aquapônico é o resultado da interligação entre dois sistemas muito conhecidos: a piscicultura e a hidroponia. O objetivo do minicurso é ensinar como se constrói um sistema de aquaponia, quais plantas cultivar, os peixes utilizados e materiais necessários.</string>
+
+
+
+    <!--Joyce-->
+    <string name="title_minicurso_joyce">Aquaponia na prática</string>
+    <string name="joyce_descricao">    A aquaponia ou sistema aquapônico é o resultado da interligação entre dois sistemas muito conhecidos: a piscicultura e a hidroponia. O objetivo do minicurso é ensinar como se constrói um sistema de aquaponia, quais plantas cultivar, os peixes utilizados e materiais necessários.</string>
+
+
+
+    <!--João-->
+    <string name="title_minicurso_joao">Água: bem comum ou recurso privado?</string>
+    <string name="joao_descricao">    Momento de pensar sobre a mercantilização da água e seus impactos geopolíticos e sociais. O ponto de partida para o debate do tema será o registro audiovisual sobre o contexto da chamada "Guerra da Água" ocorrida em 2000 na Bolívia.</string>
+
+
+
+    <!--Alana-->
+    <string name="title_oficina_alana">Rciclagem e reutilização de resíduos sólidos</string>
+    <string name="alana_descricao">    A reciclagem dos resíduos sólidos é uma das alternativas sustentáveis para diminuir o acúmulo de lixo nas cidades. Tendo em vista essa realidade, esta oficina tem como proposta a reciclagem de resíduos sólidos, buscando promover uma conscientização sobre a geração de lixo e o seu descarte apropriado.</string>
+
+
+
+    <!--Régia-->
+    <string name="title_oficina_regia">Rciclagem e reutilização de resíduos sólidos</string>
+    <string name="regia_descricao">    Momento de pensar sobre a mercantilização da água e seus impactos geopolíticos e sociais. O ponto de partida para o debate do tema será o registro audiovisual sobre o contexto da chamada "Guerra da Água" ocorrida em 2000 na Bolívia.</string>
 
 </resources>

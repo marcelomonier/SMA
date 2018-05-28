@@ -17,13 +17,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".MenuActivity" />
+        <activity android:name=".MenuAlunoActivity" />
         <activity android:name=".Programa0406Activity" />
         <activity android:name=".Programacao2Activity" />
         <activity android:name=".Programa0506Activity" />
         <activity android:name=".Programa0606Activity" />
         <activity android:name=".MinicursosActivity" />
         <activity android:name=".OficinasActivity" />
-        <activity android:name=".PalestrasActivity"></activity>
+        <activity android:name=".PalestrasActivity" />
     </application>
 
 </manifest>
