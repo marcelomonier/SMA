@@ -61,7 +61,7 @@ public class MinicursosActivity extends AppCompatActivity {
 
                 AlertDialog.Builder builder = new AlertDialog.Builder(MinicursosActivity.this);
                 builder.setTitle(getString(R.string.title_minicurso_pedro));
-                builder.setMessage(getString(R.string.felipe_descricao));
+                builder.setMessage(getString(R.string.pedro_descricao));
 
                 String positiveText = getString(android.R.string.ok);
                 builder.setPositiveButton(positiveText,

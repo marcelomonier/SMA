@@ -1,0 +1,14 @@
+
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:drawable="@drawable/arraiasma"/>
+
+        <item>
+            <bitmap
+                android:gravity="center"
+                android:src="@drawable/ifma"/>
+        </item>
+    </layer-list>
+
+
+

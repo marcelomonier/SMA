@@ -15,4 +15,8 @@
         <item name="colorAccent">#3b78e7</item>
     </style>
 
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/ifma</item>
+    </style>
+
 </resources>

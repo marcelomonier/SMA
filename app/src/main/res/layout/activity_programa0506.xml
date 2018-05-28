@@ -13,7 +13,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-   android:background="@drawable/fundo_app"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.marcelomonier.iisemanademeioambiente.Programa0506Activity">
@@ -39,7 +38,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="160dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/minicursos" />
+                android:src="@drawable/fundo_user" />
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -80,7 +79,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="160dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/oficinas" />
+                android:src="@drawable/fundo_user" />
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -120,7 +119,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="160dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/palestras" />
+                android:src="@drawable/fundo_user" />
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
