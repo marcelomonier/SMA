@@ -39,8 +39,8 @@
 
 
     <!--Joyce-->
-    <string name="title_minicurso_joyce">Aquaponia na prática</string>
-    <string name="joyce_descricao">    A aquaponia ou sistema aquapônico é o resultado da interligação entre dois sistemas muito conhecidos: a piscicultura e a hidroponia. O objetivo do minicurso é ensinar como se constrói um sistema de aquaponia, quais plantas cultivar, os peixes utilizados e materiais necessários.</string>
+    <string name="title_minicurso_joyce">A gestão de resíduos sólidos e sua implicação na qualidade da água</string>
+    <string name="joyce_descricao">    O minicurso “A gestão de resíduos sólidos e sua implicação na qualidade da água” promoverá uma discussão acerca da classificação dos resíduos e das necessárias práticas para garantir a qualidade dos recursos hídricos disponíveis para a cidade de Porto Franco (MA).</string>
 
 
 
@@ -57,7 +57,7 @@
 
 
     <!--Régia-->
-    <string name="title_oficina_regia">Rciclagem e reutilização de resíduos sólidos</string>
-    <string name="regia_descricao">    Momento de pensar sobre a mercantilização da água e seus impactos geopolíticos e sociais. O ponto de partida para o debate do tema será o registro audiovisual sobre o contexto da chamada "Guerra da Água" ocorrida em 2000 na Bolívia.</string>
+    <string name="title_oficina_regia">Compostagem doméstica</string>
+    <string name="regia_descricao">    A oficina abordará conceitos básicos, a importância ecológica e econômica da compostagem doméstica, etapas da compostagem, produção e utilização da composteira, compostagem como mecanismo de reciclagem de resíduos orgânicos domésticos.</string>
 
 </resources>

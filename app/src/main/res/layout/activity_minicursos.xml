@@ -93,7 +93,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="8dp"
                     android:textAlignment="center"
-                    android:text="Produção de mudas de recomposição de mata ciliar"
+                    android:text="Produção de mudas para recomposição de mata ciliar"
                     android:textStyle="bold"
                     android:textColor="#000"
                     android:textSize="18sp" />
@@ -182,7 +182,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="8dp"
-                    android:text="Videodebate: Água: bem comum ou recurso privado?"
+                    android:text="Videodebate: Água bem comum ou recurso privado?"
                     android:textStyle="bold"
                     android:textAlignment="center"
                     android:textColor="#000"
